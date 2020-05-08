@@ -26,6 +26,8 @@ Start the simulation.
 
 * **Jason Ostanek** - *Initial work* 
 
+* **Luis Maldonado** - *Contributor* 
+
 See also the list of [contributors](https://github.com/jkostanek/swak4fluent/contributors) who participated in this project.
 
 ## License
